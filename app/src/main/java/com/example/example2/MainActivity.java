@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         user=findViewById(R.id.edtName);
         pass=findViewById(R.id.editpassword);
+        //this is a teast comment for githup
     }
 
 
